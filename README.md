@@ -1,4 +1,3 @@
-# GIT-DEMO
 ### vscode
 - ctrl+shift+p (開啟設定)
 	-  選擇Default
@@ -108,7 +107,7 @@
 - git reflog
 	- 可以觀察commit-shal，進行reset(重置指令)
 -----------------------------------------
-# github record
+### github
 - echo "# Git-demo" >> README.md
 - git init
 - git add README.md
@@ -130,3 +129,6 @@
 
 ### 複製專案
 - git clone https://github.com/Danielready1103/Git-demo
+
+###雲端同步到本地端
+- git pull
